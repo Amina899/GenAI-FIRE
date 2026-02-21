@@ -1,5 +1,9 @@
-node_modules/
+node_modules
 dist/
 .env
 .env.local
 .vite/
+package-lock.json
+package.json
+postcss.config.mjs
+vite.config.ts
